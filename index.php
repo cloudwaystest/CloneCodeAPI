@@ -40,7 +40,7 @@
       <div class="col-md-10">
         <form class="form-horizontal" method="post" action="">
           <fieldset>
-            <legend align="center">SSH Keys for Deployment via Get </legend>
+            <legend align="center">SSH Keys for Deployment via Git </legend>
             <div class="form-group">
               <label class="col-md-4 control-label" for="server">Server</label>
               <div class="col-md-4">
